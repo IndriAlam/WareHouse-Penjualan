@@ -1,5 +1,0 @@
-user id : admin
-password : admin
-
-hapus terus buat ulang database mu, trus import lagi
-karena ada sa tambah tabel admin
